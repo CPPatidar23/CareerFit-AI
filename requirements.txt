@@ -1,1 +1,7 @@
-pandas\nnumpy\nscikit-learn\njoblib\nmatplotlib\nstreamlit\nopenpyxl\n
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+streamlit
+openpyxl
